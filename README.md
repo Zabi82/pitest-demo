@@ -27,4 +27,4 @@ mvn test pitest:mutationCoverage
 
 Report will be generated in target directory under pit-reports. Open the index.html and drill down to see the test coverage and mutation coverage as shown below
 
-![Alt text](/pit_report_screenshot.ping?raw=true "PIT Report Screenshot")
+![PIT Report Screenshot](/pit_report_screenshot.png?raw=true "PIT Report Screenshot")
