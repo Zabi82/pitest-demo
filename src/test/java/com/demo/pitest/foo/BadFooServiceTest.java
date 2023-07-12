@@ -12,7 +12,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 /**
  * This test covers 100% of the lines but misses a boundary condition for the value equal to the threshold value
- * It also doesn't evaluate the call to notOkBad method. So these tests are expected to fail the PIT mutation tests
+ * It also doesn't evaluate the call to notOkBad method. So these tests are expected to have some PIT mutation test failures
  */
 public class BadFooServiceTest {
 
